@@ -8,8 +8,7 @@
 
 Hi! My name is Jerica. I'm a creative technologist who loves to develop delightful, intuitive products. I'm also passionate about teaching and mentoring up-and-coming technologists and fostering diverse, equitable, and inclusive workplace cultures. 
   
-  </span>
-  <img src="https://media.licdn.com/dms/image/C5603AQE90KdiUbsOog/profile-displayphoto-shrink_800_800/0/1599713180910?e=1684972800&v=beta&t=ZbtpVf2bhDp4PyVfnuM1IcFsVYWCB3jZCzlCT7HWSRA" width=200 height=200 align="right"/>
+  <img src="https://media.licdn.com/dms/image/C5603AQE90KdiUbsOog/profile-displayphoto-shrink_800_800/0/1599713180910?e=1684972800&v=beta&t=ZbtpVf2bhDp4PyVfnuM1IcFsVYWCB3jZCzlCT7HWSRA" width=250 height=250 align="right"/>
   <p align="left">
       <h3> My tech stack </h3> </br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
@@ -33,10 +32,17 @@ Hi! My name is Jerica. I'm a creative technologist who loves to develop delightf
       <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlr&logoColor=white" />
       <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
    </p>
-      
+   <h3>Specialties</h3>
+   <ul>
+       <li>Full-stack web and mobile development</li>
+       <li>Product Management</li>
+       <li>User experience design</li>
+   </ul>
       
 </div> </br>
 
-### Connect with me!
+<div align="center">
+<h3>Connect with me!</h3>
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/jericahuang/)  [<img src="https://img.icons8.com/bubbles/100/null/web.png"/>](http://www.jericahuang.com) 
+</div>
