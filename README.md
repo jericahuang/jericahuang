@@ -8,7 +8,7 @@
 
 Hi! My name is Jerica. I'm a creative technologist who loves to develop delightful, intuitive products. I'm also passionate about teaching and mentoring up-and-coming technologists and fostering diverse, equitable, and inclusive workplace cultures. 
   
-  <img src="https://media.licdn.com/dms/image/C5603AQE90KdiUbsOog/profile-displayphoto-shrink_800_800/0/1599713180910?e=1684972800&v=beta&t=ZbtpVf2bhDp4PyVfnuM1IcFsVYWCB3jZCzlCT7HWSRA" width=250 height=250 align="right"/>
+  <img src="https://www.jericahuang.com/linkedinheadshot-sq.jpg" width=250 height=250 align="right"/>
   <p align="left">
       <h3> My tech stack </h3> </br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
