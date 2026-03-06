@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A27DF7&width=435&lines=Jerica+Huang" alt="Typing SVG" />
   </p>
 
-Hi! My name is Jerica. I'm a creative technologist who loves to develop delightful, intuitive products. I'm also passionate about teaching and mentoring up-and-coming technologists and fostering diverse, equitable, and inclusive workplace cultures. 
+Hi! My name is Jerica. I'm a creative technologist who loves to develop delightful, intuitive products. Currently I work in AI/Machine Learning and spend a lot of time thinking about their ethical development and societal implications. I've been a tech educator for 10+ years in both part-time and full-time capacities and believe strongly in the importance of digital literacy and fostering competence and confidence in up-and-coming technologists. 
   
   <img src="https://www.jericahuang.com/linkedinheadshot-sq.jpg" width=250 height=250 align="right"/>
   <p align="left">
@@ -34,9 +34,10 @@ Hi! My name is Jerica. I'm a creative technologist who loves to develop delightf
    </p>
    <h3>Specialties</h3>
    <ul>
+       <li>AI/Machine Learning</li>
        <li>Full-stack web and mobile development</li>
        <li>Product Management</li>
-       <li>User experience design</li>
+       <li>Tech education</li>
    </ul>
       
 </div> </br>
